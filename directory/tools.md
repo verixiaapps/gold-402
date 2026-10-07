@@ -26,8 +26,8 @@ Development tools, CLI utilities, monitoring, analytics, and CI/CD integrations 
 
 - [24K Labs GitHub Action](https://github.com/Haustorium12/24klabs-action) — Automated AI code review on every PR. Runs explain, debug, review, and security audit via x402 micropayments. Drop into any GitHub Actions workflow.
 - [Obol GitHub Actions CI/CD](https://api.obol.sh/.well-known/x402) — Obol generates GitHub Actions CI/CD pipelines via x402. $5 USDC per call on Base.
+- [x402 Doctor check](https://github.com/marketplace/actions/x402-doctor-check) — GitHub Action that checks x402 endpoints on every push and fails the build on a broken 402, with the fix for each problem in the job summary.
 
----
 
 ## Monitoring & Analytics
 
